@@ -1,0 +1,42 @@
+PID,Group,SUS Score,PP Score,PI Score,Gender,Age,Online Frequency
+P01,AR,60,3,1,Female,20,Always
+P02,AR,45,2.2,1,Male,22,Sometimes
+P03,AR,50,4,2.75,Male,21,About half the time
+P04,AR,52.5,4,1,Female,20,About half the time
+P05,AR,50,3.4,2,Female,21,About half the time
+P06,AR,32.5,3.4,1,Male,19,Most of the time
+P07,AR,55,4.2,3,Female,22,Sometimes
+P08,AR,50,3.6,4,Female,22,Most of the time
+P)9,AR,55,3.8,3,Male,22,Always
+P10,AR,77.5,5,4.75,Male,22,Always
+P11,AR,42.5,2.4,1,Female,22,Most of the time
+P12,AR,42.5,3.8,2.75,Male,20,Always
+P13,AR,57.5,4,4.25,Male,19,Most of the time
+P14,AR,37.5,4.8,4.5,Female,21,Always
+P15,AR,52.5,4,2.25,Male,22,About half the time
+P16,AR,50,3.6,2,Prefer not to say,22,About half the time
+P17,AR,62.5,4.4,2.75,Female,23,Always
+P18,AR,40,4,1.75,Male,21,About half the time
+P19,AR,55,3.2,2.5,Male,20,Most of the time
+P20,AR,55,4,1,Male,21,Most of the time
+P21,2D,37.5,4,2,Female,21,Most of the time
+P22,2D,50,4,1,Male,22,Sometimes
+P23,2D,57.5,3.6,1,Female,19,Most of the time
+P24,2D,50,4,1.25,Male,20,About half the time
+P25,2D,50,3.8,1,Female,19,Most of the time
+P26,2D,52.5,4,1,Male,20,Sometimes
+P27,2D,50,5,1,Female,20,Sometimes
+P28,2D,60,4,1,Female,20,Sometimes
+P29,2D,55,4.2,3,Male,32,Most of the time
+P30,2D,40,4,3,Female,19,Most of the time
+P31,2D,47.5,3.4,1,Male,20,Most of the time
+P32,2D,52.5,4.8,4,Female,20,Most of the time
+P33,2D,50,2.6,1,Male,19,Most of the time
+P34,2D,45,3.8,3.5,Male,19,About half the time
+P35,2D,57.5,5,3,Male,19,Sometimes
+P36,2D,55,3.6,3.5,Male,20,Most of the time
+P37,2D,47.5,2.2,1,Male,21,Always
+P38,2D,65,3.2,1,Male,22,Sometimes
+P39,2D,52.5,3.8,1,Male,21,Most of the time
+P40,2D,52.5,3.6,1,Male,21,Most of the time
+P41,2D,52.5,4.4,2.5,Female,21,Most of the time
